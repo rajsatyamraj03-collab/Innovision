@@ -1,12 +1,6 @@
 
 InnoVision is a cutting-edge AI-powered learning platform that dynamically generates structured and engaging courses from any topic. Unlike traditional static courses, InnoVision leverages AI and machine learning to create a flexible, adaptive learning environment tailored to individual learner needs.
-<p align="center">
-  <img src="/public/OSCG26-Label.jpg" alt="OSCG26" width=""/>
-</p>
 
-<p align="center">
-  <img src="./public/InnoVision_LOGO-removebg-preview.png" alt="InnoVision Logo" width="200"/>
-</p>
 
 <h1 align="center">InnoVision - AI-Powered Adaptive Learning Platform</h1>
 
